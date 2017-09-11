@@ -1,0 +1,4 @@
+﻿  FirstProject.cpp
+c:\users\jonathan\source\repos\firstproject\firstproject\firstproject.cpp(149): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FirstProject.vcxproj -> C:\Users\Jonathan\source\repos\FirstProject\Debug\FirstProject.exe
+  FirstProject.vcxproj -> C:\Users\Jonathan\source\repos\FirstProject\Debug\FirstProject.pdb (Partial PDB)
